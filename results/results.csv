@@ -1,0 +1,11 @@
+Algorithm,InputType,Size,TimeNs,Comparisons,MaxDepth
+MergeSort,Random,100,42100,592,5
+QuickSort,Random,100,212000,744,5
+MergeSort,Random,500,214400,4165,7
+QuickSort,Random,500,308800,5466,7
+MergeSort,Random,1000,535100,9314,8
+QuickSort,Random,1000,176800,10958,7
+MergeSort,Random,5000,687900,57541,11
+QuickSort,Random,5000,714900,77704,8
+MergeSort,Random,10000,1423000,124922,12
+QuickSort,Random,10000,1565400,166339,9
